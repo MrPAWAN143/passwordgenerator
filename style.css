@@ -78,13 +78,10 @@ body {
 
 .showpassword span {
     position: absolute;
-    /* top: 0px; */
     left: 76.1%;
-    /* transform: translateX(-50%)scale(2) !important ; */
     color: rgb(28, 89, 244);
     display: none;
     align-items: center;
-    /* transform: scale(2); */
     transition: all .5s ease-in;
 
 
